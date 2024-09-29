@@ -1,5 +1,5 @@
 console.log("skynet initiated")
-
+/*.*/
 
 
 let grades = [85,92,78,68,99,73,88,91];
